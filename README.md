@@ -62,8 +62,8 @@ As ferramentas usadas para a construção do projeto foram as seguintes:
 - [Overleaf](https://pt.overleaf.com/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html/)
 - [WonderShare Filmora](https://filmora.wondershare.net/pt-br/)
-- [HTML]
-- [CSS]
+- [HTML5](https://dev.w3.org/html5/spec-LC/)
+- [CSS3](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
 
 ## 📜 Deploy
 
