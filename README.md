@@ -64,6 +64,7 @@ As ferramentas usadas para a construção do projeto foram as seguintes:
 - [WonderShare Filmora](https://filmora.wondershare.net/pt-br/)
 - [HTML5](https://dev.w3.org/html5/spec-LC/)
 - [CSS3](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
+- [draw.io](draw.io)
 
 ## 📜 Deploy
 
