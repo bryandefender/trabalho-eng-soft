@@ -85,7 +85,4 @@ O acesso à aplicação é feito por [aqui](https://)
 ## 📝 Referências
 
 - [ABRASEL - Associação Brasileira de Bares e Restaurantes](https://abrasel.com.br/)
--
--
-
 
